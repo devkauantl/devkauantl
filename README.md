@@ -17,4 +17,4 @@
 [![devkauantl GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devkauantl&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ### 📱 Contato
-[![Discord](https://img.shields.io/badge/Discord-3d3638?style=flat&logo=discord)](https://discord.com/users/1204102738179391498)
+[![Discord]](https://discord.com/users/1204102738179391498)
